@@ -26,4 +26,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 6. Contact Us
 If you have any questions about these Terms, please contact us.
 
-if you have foung this ToS directly on google here is a invite link: [Invite](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot)
+if you have found this ToS directly on google here is a invite link: [Invite](https://discord.com/api/oauth2/authorize?client_id=813353603057713152&permissions=8&scope=bot)
